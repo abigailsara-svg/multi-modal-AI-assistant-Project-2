@@ -8,7 +8,7 @@ An advanced AI assistant capable of understanding both text and image inputs usi
 - Image understanding using BLIP model
 - Conversational memory
 - Context awareness
-- Intelligent reasoning engine
+- Contextual reasoning engine
 - Response validation
 - Ambiguity handling
 - Follow-up question support
@@ -103,6 +103,14 @@ The AI assistant remembers previous context and answers intelligently.
 - Intelligent decision-making
 - Evidence-based responses
 - Validation handling
+
+## Future Enhancements
+
+- Voice interaction support
+- Real-time webcam analysis
+- Database-based long-term memory
+- Advanced NLP reasoning
+- Cloud deployment support
 
 ## Author
 
