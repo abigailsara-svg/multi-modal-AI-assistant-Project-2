@@ -24,6 +24,7 @@ An advanced AI assistant capable of understanding both text and image inputs usi
 
 ## Project Structure
 
+```bash
 Project-2/
 │
 ├── app.py
@@ -44,8 +45,12 @@ Project-2/
 │   └── index.html
 │
 ├── uploads/
+│
 ├── static/
+│
 └── venv/
+```
+
 
 ## Installation
 
